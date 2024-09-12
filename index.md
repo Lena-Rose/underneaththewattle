@@ -1,5 +1,5 @@
 ---
-title: Writings from Under the Wattle Tree (a blog from Brisbane, obviously)
+title: Writings from under the Wattle Tree
 ---
 
-This is primarily an experimental thing, and somewhere to collect various scraps of writing I've done, like a magpie collects odd shiny things. 
+Welcome to my attempt to create a blog about my time back in Brisbane. This is primarily an experimental thing, and somewhere to collect various scraps of writing I've done, in a manner similar to a magpie. 
